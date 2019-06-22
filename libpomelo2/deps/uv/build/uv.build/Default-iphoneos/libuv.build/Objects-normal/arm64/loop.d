@@ -1,0 +1,8 @@
+dependencies: /Users/jj/workspace/libpomelo2/deps/uv/src/unix/loop.c \
+  /Users/jj/workspace/libpomelo2/deps/uv/include/uv.h include/uv-errno.h \
+  include/uv-version.h include/uv-unix.h include/uv-threadpool.h \
+  include/uv-darwin.h \
+  /Users/jj/workspace/libpomelo2/deps/uv/include/tree.h \
+  /Users/jj/workspace/libpomelo2/deps/uv/src/unix/internal.h \
+  /Users/jj/workspace/libpomelo2/deps/uv/src/uv-common.h src/queue.h \
+  /Users/jj/workspace/libpomelo2/deps/uv/src/heap-inl.h
